@@ -1,2 +1,2 @@
-# XRPL-Developer-Grants-Wave-3
-XRPL Developer Grants Wave 3 -  Proof of concept or prototype 
+# XRPL-Developer-Grants-Wave-4
+XRPL Developer Grants Wave 4 -  Proof of concept or prototype 
