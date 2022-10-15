@@ -1,7 +1,8 @@
 # XRPL-Developer-Grants-Wave-4
 XRPL Developer Grants Wave 4 -  Proof of concept or prototype 
 
-== Code to swap the device-token KWH by the TGO token.
+Code to swap the device-token KWH by the TGO token.
+
 The code needs error handling improvements, but its functionality can be evaluated.
 
 # How it works:
